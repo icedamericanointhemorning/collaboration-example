@@ -1,1 +1,5 @@
-console.log("Hello Melissa!");
+export function helloMelissa() {
+    console.log("Hello Melissa!");
+}
+
+helloMelissa();
