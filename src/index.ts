@@ -5,3 +5,4 @@ export function helloMelissa() {
 helloMelissa();
 
 console.log("Hello Leo!")
+console.log("Hello Coco!")
