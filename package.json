@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "index": "ts-node src/index.ts"
   },
   "dependencies": {
     "typescript": "^5.4.5"
