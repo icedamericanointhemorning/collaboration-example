@@ -3,3 +3,5 @@ export function helloMelissa() {
 }
 
 helloMelissa();
+
+console.log("Hello Leo!")
